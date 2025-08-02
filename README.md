@@ -28,7 +28,7 @@ Primarily working in the **MERN stack**, with a focus on clean structure and pra
 ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Framer Motion](https://skillicons.dev/icons?i=framer)
 
 **Tools & Workflow**  
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) ![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) ![Vercel](https://skillicons.dev/icons?i=vercel) 
 
 ---
 

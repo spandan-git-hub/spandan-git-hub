@@ -3,18 +3,18 @@
 <h1 align="center">Spandan Mhaske ⚡</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> · MERN Stack · Building Tools That Make Sense  
+  <strong>Full Stack Developer</strong> · MERN Stack · Crafting Code with Intent  
 </p>
 
 ---
 
 ### 🧠 About Me
 
-Full-stack developer focused on building practical, accessible, and scalable systems.  
-I work mostly in the **MERN stack**, with a love for expressive UIs and clean backend logic.
+Full-stack developer who enjoys building fast, functional systems.  
+Primarily working in the **MERN stack**, with a focus on clean structure and practical solutions.
 
-- 🛠 Focus: developer tools, accessibility, performance  
-- 🌐 Fluent in API design, auth, state management, and DX  
+- 🧩 Interested in backend logic, API design, and system architecture  
+- 💡 Driven by clarity, consistency, and maintainability  
 - 📍 Based in Nashik, India
 
 ---

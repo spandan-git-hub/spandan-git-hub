@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Spandan Mhaske -->
 
-<h1 align="center">✨ Spandan Mhaske</h1>
+<h1 align="center">🎯 Spandan Mhaske</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong> · MERN Stack · Crafting Code with Intent  
@@ -13,9 +13,9 @@
 Full-stack developer who enjoys building fast, functional systems.  
 Primarily working in the **MERN stack**, with a focus on clean structure and practical solutions.
 
-- 🧩 Interested in backend logic, API design, and system architecture  
-- 💡 Driven by clarity, consistency, and maintainability  
-- 📍 Based in Nashik, India
+> 🧩 Interested in backend logic, API design, and system architecture  
+> 💡 Driven by clarity, consistency, and maintainability  
+> 📍 Based in Nashik, India
 
 ---
 

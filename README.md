@@ -8,7 +8,7 @@
 
 ---
 
-### 💫 About Me
+### ✨ About Me
 
 Full-stack developer who enjoys building fast, functional systems.  
 Primarily working in the **MERN stack**, with a focus on clean structure and practical solutions.

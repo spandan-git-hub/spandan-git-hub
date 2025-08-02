@@ -3,7 +3,7 @@
 <h1 align="center">🎯 Spandan Mhaske</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> · MERN Stack · Crafting Code with Intent  
+  <strong>Full Stack Developer</strong> · MERN Stack · Crafting Code with Intent 🚀
 </p>
 
 ---

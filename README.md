@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 About Me
+### 💫 About Me
 
 Full-stack developer who enjoys building fast, functional systems.  
 Primarily working in the **MERN stack**, with a focus on clean structure and practical solutions.
@@ -48,16 +48,9 @@ Primarily working in the **MERN stack**, with a focus on clean structure and pra
 
 If you're building something meaningful — or just want to bounce ideas — let's talk:
 
-<p>
-  <a href="https://www.linkedin.com/in/spandanmhaske/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:spandanmhaske@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://accessibility-analyzer-v3.vercel.app" target="_blank">
-    <img alt="Live Project" src="https://img.shields.io/badge/Accessibility Analyzer-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandanmhaske/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spandanmhaske@gmail.com)
+[![Live Project](https://img.shields.io/badge/Accessibility_Analyzer-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://accessibility-analyzer-v3.vercel.app)
+
 
 ---

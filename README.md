@@ -21,11 +21,14 @@ Primarily working in the **MERN stack**, with a focus on clean structure and pra
 
 ### 🛠 Tech Stack
 
-#### **Languages & Backend**
+#### **Programming Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-303030?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,6 +45,7 @@ Primarily working in the **MERN stack**, with a focus on clean structure and pra
 ![Render](https://img.shields.io/badge/Render-1F2937?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+
 ---
 
 ### 📡 Connect or Collaborate
@@ -51,6 +55,5 @@ If you're building something meaningful — or just want to bounce ideas — let
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandanmhaske/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spandanmhaske.work@gmail.com)
 [![Live Project](https://img.shields.io/badge/Accessibility_Analyzer-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://accessibility-analyzer-v3.vercel.app)
-
 
 ---

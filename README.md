@@ -1,22 +1,4 @@
 <!-- GitHub Profile README for Spandan Mhaske -->
-
-<h1 align="center">🎯 Spandan Mhaske</h1>
-
-<p align="center">
-  <strong>Full Stack Developer</strong> · MERN Stack · Crafting Code with Intent 🚀
-</p>
-
----
-
-### ✨ About Me
-
-Full-stack developer who enjoys building fast, functional systems.  
-Primarily working in the **MERN stack**, with a focus on clean structure and practical solutions.
-
-> 🧩 Interested in backend logic, API design, and system architecture  
-> 💡 Driven by clarity, consistency, and maintainability  
-> 📍 Based in Nashik, India
-
 ---
 
 ### 🛠 Tech Stack
@@ -54,6 +36,6 @@ If you're building something meaningful — or just want to bounce ideas — let
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandanmhaske/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spandanmhaske.work@gmail.com)
-[![Live Project](https://img.shields.io/badge/Accessibility_Analyzer-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://accessibility-analyzer-v3.vercel.app)
+<!-- [![Live Project](https://img.shields.io/badge/Accessibility_Analyzer-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://accessibility-analyzer-v3.vercel.app) -->
 
 ---

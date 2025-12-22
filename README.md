@@ -39,3 +39,11 @@ If you're building something meaningful — or just want to bounce ideas — let
 <!-- [![Live Project](https://img.shields.io/badge/Accessibility_Analyzer-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://accessibility-analyzer-v3.vercel.app) -->
 
 ---
+
+
+### 🚀 Contributions
+
+![](https://nirzak-streak-stats.vercel.app/?user=spandan-git-hub&theme=dark&hide_border=true)
+
+
+---

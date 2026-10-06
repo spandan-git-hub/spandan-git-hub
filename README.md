@@ -48,6 +48,6 @@ If you're building something meaningful — or just want to bounce ideas — let
 
 ### 🚀 Contributions
 
-![](https://nirzak-streak-stats.vercel.app/?user=spandan-git-hub&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=spandan-git-hub&theme=dark&hide_border=true&background=151515&ring=FB8C00&fire=FB8C00&currStreakNum=FEFEFE&sideNums=FEFEFE&currStreakLabel=FB8C00&sideLabels=FEFEFE&dates=9E9E9E&stroke=E4E2E2)
 
 ---
